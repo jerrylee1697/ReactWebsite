@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"Tim Baker",
+    "name":"Jerry Lee",
     "occupation":"(Your Occupation Here)",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
@@ -58,13 +58,13 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
+        "school":"University of California, Irvine",
         "degree":"Masters in Beer tasting",
         "graduated":"April 2007",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"School #1 Maybe College?",
+        "school":"University of California, Riverside",
         "degree":"What did you study 101",
         "graduated":"March 2003",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
@@ -72,13 +72,25 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
+        "company":"Amazon AWS",
         "title":"Senior UX God ",
         "years":"March 2010 - Present",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company":"Super Cool Studio",
+        "company":"Aspin Labs",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Calit2 Research Center",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Niagara",
         "title":"Junior bug fixer",
         "years":"March 2007 - February 2010",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
